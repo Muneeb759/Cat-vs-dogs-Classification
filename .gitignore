@@ -1,0 +1,4 @@
+# Ignore dataset directory
+cats_vs_dogs_small/
+train/
+.sixth/
