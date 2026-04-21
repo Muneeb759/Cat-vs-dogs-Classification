@@ -74,6 +74,9 @@ This project builds and evaluates image classifiers for the Kaggle Dogs vs Cats 
 - Used scikit-learn metrics:
   - Confusion matrix (`confusion_matrix`)
   - Precision/recall/F1 report (`classification_report`)
+ 
+## Results
+<img width="361" height="150" alt="image" src="https://github.com/user-attachments/assets/c794ca71-8001-43ce-a453-5f3494f6c709" />
 
 ## Workflow Summary
 
